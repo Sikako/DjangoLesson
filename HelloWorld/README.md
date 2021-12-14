@@ -1,5 +1,5 @@
-Django ½Òµ{
+Django é€£ç·š
 
 `python manage.py runserver 0.0.0.0:8000`
 
-¨ìÂsÄı¾¹³s½u127.0.0.1:8000
+ç€è¦½å™¨: 127.0.0.1:8000
