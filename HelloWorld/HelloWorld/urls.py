@@ -18,8 +18,10 @@ from django.urls import path
 # from django.conf.urls import url
 from . import views
 
+
+# 127.0.0.1:8000/index 會返回views.py裡面的index
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('index/',views.index),
+    path('index/',views.index),     
     # url(r'^$',views.Hello)
 ]
